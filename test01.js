@@ -1,1 +1,3 @@
 print("toilet");
+print("zako");
+
