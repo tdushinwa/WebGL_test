@@ -1,3 +1,0 @@
-print("toilet");
-print("zako");
-
